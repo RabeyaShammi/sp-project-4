@@ -1,0 +1,7 @@
+To write a C program to implement a symbol table.
+//Possible entries in a symbol table:
+1. Reserved word
+2. Variable name
+3. Type Name
+4. Procedure name
+5. Constant nam
