@@ -4,4 +4,5 @@ To write a C program to implement a symbol table.
 2. Variable name
 3. Type Name
 4. Procedure name
-5. Constant nam
+5. Constant name
+Rabeya
